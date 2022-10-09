@@ -1,6 +1,6 @@
 {
   "name": "backpack",
-  "version": "latest-2334",
+  "version": "0.1.2334",
   "private": true,
   "workspaces": [
     "backend/workers/*",
